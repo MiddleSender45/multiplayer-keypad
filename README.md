@@ -1,3 +1,4 @@
+This is the design of a breakout macropad, that can be used for multiplayer games. Instead of reaching to wasd and the arrow keys this module is intended to be used, and is customizable. 
 The case for the multipad is below. The bottom case has room for the USB port of the XIAO, as well as a hole to insert threaded m3 brackets. The top case is intended to be secure to the bottom via m3 screws. 
 
 <img width="1157" height="620" alt="image" src="https://github.com/user-attachments/assets/f76a42ed-c5fd-4a30-9191-a8940956d1cd" />
